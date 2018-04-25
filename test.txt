@@ -1,3 +1,0 @@
-this is first test;
-
-second test;
